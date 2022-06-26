@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nefwgg8snBYwWmcj1NNrqP+p/Xw23JRfuskXjz2X3eE=",
+  "Source": "WeatherWebhook.Presentation.WebApi",
+  "BasePath": "_content/WeatherWebhook.Presentation.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
